@@ -1,0 +1,36 @@
+body {
+  font-family: Helvetica, Arial;
+  color: #34495E;
+}
+
+.hide {
+  display: none;
+}
+
+span {
+  display: block;
+}
+
+ul {
+  list-style: none;
+  width: 100%;
+}
+
+li {
+  display: inline;
+}
+
+#wrapper {
+  margin: 0 auto;
+  width: 800px;
+  text-align: center;
+}
+
+video {
+  width: 100%;
+  background: #eee;
+}
+
+img {
+  border: 5px solid #CCC;
+}

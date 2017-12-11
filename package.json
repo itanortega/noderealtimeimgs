@@ -1,0 +1,23 @@
+{
+  "name": "noderealtimeimgs",
+  "version": "1.0.0",
+  "description": "tutorial https://www.youtube.com/watch?v=Zznz03F2WEg",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itanortega/noderealtimeimgs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itanortega/noderealtimeimgs/issues"
+  },
+  "homepage": "https://github.com/itanortega/noderealtimeimgs#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
